@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  user_id: 1
+  start_at: 2020-12-09 20:11:42
+  end_at: 2020-12-09 20:11:42
+  start_price: 1
+  currency: MyString
+
+two:
+  name: MyString
+  user_id: 1
+  start_at: 2020-12-09 20:11:42
+  end_at: 2020-12-09 20:11:42
+  start_price: 1
+  currency: MyString
