@@ -1,11 +1,12 @@
-# AuctionsBot
+# Twitch Tools
 
-Welcome to the Twitch AuctionsBot
+A collection of Twitch Tools. Go to https://buhrmi.de to install them in your channel.
 
-Visit https://auctionsbot.com to add this bot to your channel (it's free).
+## Features
 
+### Auctions
 
-## Commands
+Run auctions in your Twitch channel.
 
 ### Viewer commands
 
