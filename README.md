@@ -1,6 +1,6 @@
 # Twitch Tools
 
-A collection of Twitch Tools. Go to https://buhrmi.de to install them in your channel.
+The source code for buhrmi's Twitch Tools (https://buhrmi.de)
 
 ## Features
 
