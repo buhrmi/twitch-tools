@@ -1,0 +1,1 @@
+GIBBON = Gibbon::Request.new

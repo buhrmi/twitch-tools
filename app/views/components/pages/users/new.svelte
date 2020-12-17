@@ -2,11 +2,14 @@
   import { page, inertia } from 'inertia-svelte'
 </script>
 
-<p>Run live auctions on Twitch</p>
+<div class="tool">
+  AuctionsBot
+  <a href="/auth/twitch">Install</a> 
+  Run live auctions in your channel.
+</div>
 
-<h2>Get started</h2>
-
-<div class="login">
-  Step 1:
-  <a href="/auth/twitch">Connect your Twitch account</a> 
+<div class="tool">
+  StreamEstate
+  Coming Soon
+  Buy and sell ad space on live streams
 </div>

@@ -30,6 +30,7 @@ gem 'omniauth-discord'
 gem 'twitch-api'
 gem 'oauth2'
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'gibbon'
 
 gem "discordrb"
 gem "aws-sdk-s3", require: false

@@ -14,7 +14,7 @@
       </div>
     </div>
   {:else}
-    <h1><a use:inertia href="/">AuctionsBot <span>Alpha</span></a></h1>
+    <h1><a use:inertia href="/">Stream Tools</a></h1>
 
     <div class="login">
       <a href="/auth/twitch">Log In</a> 

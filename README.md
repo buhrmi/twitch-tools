@@ -1,6 +1,6 @@
-# Twitch Tools
+# Stream Tools
 
-The source code for buhrmi's Twitch Tools (https://buhrmi.de)
+This is the source code for my stream tools which you can access at https://buhrmi.de
 
 ## Features
 
