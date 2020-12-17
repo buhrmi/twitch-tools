@@ -14,7 +14,7 @@
       </div>
     </div>
   {:else}
-    <h1><a use:inertia href="/">Stream Tools</a></h1>
+    <h1><a use:inertia href="/">StreamTools</a></h1>
 
     <div class="login">
       <a href="/auth/twitch">Log In</a> 
@@ -51,14 +51,13 @@ h1 span {
 }
 
 h1 a {
-  color: black !important;
   text-decoration: none !important;
 }
 
 footer {
   margin-top: 30px;
   padding-top: 10px;
-  border-top: 1px solid black;
+  border-top: 1px solid #363636;
 }
 .container {
   position: relative;

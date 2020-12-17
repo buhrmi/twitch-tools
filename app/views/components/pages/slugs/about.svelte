@@ -1,4 +1,2 @@
-<h1>About AuctionsBot</h1>
+<h1>About Stream Tools</h1>
 
-<p>AuctionsBot is operated by</p>
-<p>Stefan Buhrmester (buhrmi@gmail.com)</p>
