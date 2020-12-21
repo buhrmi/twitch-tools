@@ -1,12 +1,12 @@
-# Stream Tools
+# Twitch Toolkit
 
-This is the source code for my stream tools which you can access at https://buhrmi.de
+A collection of tools for Twitch
 
 ## Features
 
-### Auctions
+### AuctionsBot
 
-Run auctions in your Twitch channel.
+Run live auctions in your Twitch channel.
 
 ### Viewer commands
 
