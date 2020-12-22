@@ -1,6 +1,6 @@
 # Twitch Toolkit
 
-A collection of tools for Twitch. The URL to add the bot to your channel will be published soon.
+A collection of tools for Twitch.
 
 ## Features
 
